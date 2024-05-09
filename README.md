@@ -5,3 +5,7 @@ The project aims to develop an AWS-based solution to analyze and gain insights i
 ## AWS Schema
 
 ![ER version modifiable -2 drawio](https://github.com/YSH-314/AWS_fire_inspection_NYC/assets/74528993/f55a5411-29d2-419e-aab9-1befbf956384)
+
+
+## Dataset
+https://drive.google.com/drive/folders/1Is5ibh_GAbW9daFv4BxKTM-y0-A_2-dt?usp=drive_link
