@@ -10,5 +10,5 @@ The project aims to develop an AWS-based solution to analyze and gain insights i
 ## Dataset
 https://drive.google.com/drive/folders/1Is5ibh_GAbW9daFv4BxKTM-y0-A_2-dt?usp=drive_link
 
-## Final merge file (in S2 bucket)
+## Final merge file (in Zone2 S3 bucket)
 https://drive.google.com/file/d/1jA-XYK4h67P8AzrVMhxMAllv0dSqE_O9/view?usp=sharing
